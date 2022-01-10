@@ -4,11 +4,11 @@ RSpec.describe Product, type: :model do
 
   before do 
     @category = Category.new({:name => 'Electronics'})
-    @product = Product.new({:name => 'Macbook Pro', :price_cents => 300000, :quantity => 3, :category_id = @category.id})
+    @product = Product.new({:name => 'Macbook Pro', :price_cents => 300000, :quantity => 3, :category_id => @category.id})
   end
 
   describe 'Validations' do
-    
+
    it 'should save when the product info is correct' do
     @product.save
     expect(@product).to be_present

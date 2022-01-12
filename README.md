@@ -6,17 +6,23 @@ A user can browse, view, select, and purchase products. An admin can create new 
 
 ## Screenshots
 
-**Full view of Jungle e-Commerce Applicatoin**
+**Full view of Jungle e-Commerce Application**
+!["Full view of Jungle Application"](https://github.com/kliang1194/Jungle-Rails/blob/master/docs/Jungle%20Main%20Page.png?raw=true)
 
 **Select a product to view its product details**
+!["Product Details"](https://github.com/kliang1194/Jungle-Rails/blob/master/docs/Product%20Details.png?raw=true)
 
 **Add products to your cart to view your purchase**
+!["My Cart"](https://github.com/kliang1194/Jungle-Rails/blob/master/docs/Cart.png?raw=true)
 
 **View a purchase confirmation following a successful purchase**
+!["Purchase Confirmation"](https://github.com/kliang1194/Jungle-Rails/blob/master/docs/Purchase%20Confirmation.png?raw=true)
 
 **Admins can view and create new products to sell**
+!["Admin Product Page"](https://github.com/kliang1194/Jungle-Rails/blob/master/docs/Admin%20Products.png?raw=true)
 
 **Admins can view and create new categories of products**
+!["Admin Categories Page"](https://github.com/kliang1194/Jungle-Rails/blob/master/docs/Admin%20Categories.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
